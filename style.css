@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  width: 50%;
+}
+body{
+    background-color: rgb(255, 175, 175);
+}
+
+h1{
+    color:rgb(94, 44, 44);
+    text-align: center;
+}
+
+h2{
+    color:rgb(94, 44, 44);
+    text-align: center;
+}
+
+h3{
+    color:rgb(94, 44, 44);
+    text-align: center;
+}
+
+img.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 10cm;
+}
